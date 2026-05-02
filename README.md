@@ -90,7 +90,7 @@
 ---
 
 <h3 align="center">
-🚀 Code → Learn → Improve → Repeat
+💻 Code → Learn → Improve → Repeat
 </h3>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:ff7b00&height=120&section=footer"/>
