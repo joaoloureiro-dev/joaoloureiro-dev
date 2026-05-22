@@ -52,7 +52,7 @@
   <td>🌐</td>
   <td><b>Portfolio</b></td>
   <td>
-    <a href="https://teu-site.com" target="_blank">
+    <a href="https://joaoloureiro-dev.pt" target="_blank">
       <img src="https://img.shields.io/badge/View%20Portfolio-ff7b00?style=for-the-badge&logo=google-chrome&logoColor=black" />
     </a>
   </td>
