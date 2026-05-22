@@ -17,11 +17,14 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js&logoColor=ff7b00" />
-<img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=ff7b00" />
-<img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=ff7b00" />
-<img src="https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=ff7b00" />
-<img src="https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwind-css&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=ff7b00" />
 </div>
 
 <br>
