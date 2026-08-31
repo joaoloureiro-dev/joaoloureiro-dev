@@ -24,17 +24,18 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=ff7b00" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=ff7b00" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwind-css&logoColor=ff7b00" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js&logoColor=ff7b00" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=ff7b00" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=ff7b00" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwind-css&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=ff7b00" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=postgresql&logoColor=ff7b00" />
 </div>
 
 <br>
 
 <div align="center">
+
 <table align="center">
   <tr>
     <td>💭</td>
@@ -83,6 +84,7 @@
     <td>Portugal 🇵🇹</td>
   </tr>
 </table>
+
 </div>
 
 <br>
@@ -92,13 +94,13 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=joaoloureiro-dev&show_icons=true&bg_color=0d1117&title_color=ff7b00&text_color=ffffff&icon_color=ff7b00&border_color=ff7b00&count_private=true&include_all_commits=true"
+    src="https://github-stats-mu-nine.vercel.app/api?username=joaoloureiro-dev&show_icons=true&bg_color=0d1117&title_color=ff7b00&text_color=ffffff&icon_color=ff7b00&border_color=ff7b00&include_all_commits=true"
     alt="João Loureiro GitHub Stats"
   />
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoloureiro-dev&layout=compact&bg_color=0d1117&title_color=ff7b00&text_color=ffffff&border_color=ff7b00&langs_count=6"
-    alt="Most Used Languages"
+    src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=joaoloureiro-dev&layout=compact&bg_color=0d1117&title_color=ff7b00&text_color=ffffff&border_color=ff7b00&langs_count=6"
+    alt="Top Languages"
   />
 </p>
 
